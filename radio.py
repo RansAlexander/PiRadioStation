@@ -17,8 +17,8 @@ from PIL import ImageFont
 from mpd import MPDClient
 
 print("Initializing")
-url = "http://alexrans0808003.hub.ubeac.io/iotessalex"
-uid = "iotessyour alex"
+url = "http://#########.hub.ubeac.io/#########"
+uid = "###########"
 ipv4 = os.popen('ip addr show wlan0').read().split("inet ")[1].split("/")[0]
 
 # MPD Setup
